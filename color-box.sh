@@ -5,7 +5,7 @@ width=1024
 height=1024
 
 # Set the number of images in the series
-num_images=1000
+num_images=100
 
 # Create a directory to store the images
 mkdir -p color_spectrum_images
