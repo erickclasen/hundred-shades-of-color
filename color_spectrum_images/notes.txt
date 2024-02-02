@@ -1,0 +1,3 @@
+This directory contains generate-mp4-slideshow-from-png.sh that generates the slideshow.mp4
+slideshow.mp4 - An example slideshow of 100 images.
+image_000.png to image_099.png - example images.
